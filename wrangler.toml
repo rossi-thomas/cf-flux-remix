@@ -16,8 +16,8 @@ enabled = true
 
 [vars]
 CF_ACCOUNT_LIST = '''[{
-    "account_id":"654ca19a79dd27a4be7df35c9d002bbb",
-    "token":"yASUib72CKhE9yeSy0TiUchSHRJrpuIbgYyU63u1"
+    "account_id":"",
+    "token":""
 }]'''
 API_KEY = "your_api_key_here"
 CF_TRANSLATE_MODEL = "@cf/qwen/qwen1.5-14b-chat-awq"
