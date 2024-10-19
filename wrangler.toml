@@ -16,8 +16,8 @@ enabled = true
 
 [vars]
 CF_ACCOUNT_LIST = '''[{
-    "account_id":"你的CloudFlare帐户ID",
-    "token":"有Workers AI权限的API令牌"
+    "account_id":"654ca19a79dd27a4be7df35c9d002bbb",
+    "token":"gyxEfDbOLq5Tl4T-A6iOMwRp_ClCUS5H33zi35C0"
 }]'''
 API_KEY = "your_api_key_here"
 CF_TRANSLATE_MODEL = "@cf/qwen/qwen1.5-14b-chat-awq"
